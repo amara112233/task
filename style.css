@@ -1,0 +1,169 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    height: 90px;
+}
+  
+.logo img{
+  height: 120px;
+  width: 120px;
+  margin-left: 80px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.navbar ul{
+    display: flex;
+    list-style: none;
+    margin-right: 150px;
+}
+.navbar li{
+    margin-right: 40px;
+    font-size: 13px;
+    margin-top: 0px;
+    margin-bottom: 80px;
+    margin-left: 40px;
+}
+.navbar li a{
+    color: white;
+}
+.digne .a{
+    margin-left: 100px;
+    margin-top: 80px;
+    font-size: 25px;
+}
+.digne .b{
+    margin-top: 5px;
+    margin-left: 200px;
+    font-size: 25px;
+}
+.c{
+   margin-left: 100px;
+   font-size: 20px;
+   margin-top: 40px;
+}
+.d{
+margin-left: 100px;
+font-size: 20px;
+}
+.main{
+    display: flex;
+}
+.send p{
+    margin-top: 80px;
+    margin-left: 150px;
+    font-size: 20px;
+}
+.ab{
+    display: flex;
+    margin-top: 70px;
+}
+#a{
+    margin-left: 30px;
+}
+
+#b{
+    margin-left: 100px;
+}
+#a input{
+    font-size: 13px;
+}
+#b input{
+    font-size: 13px;
+}
+.cd{
+    display: flex;
+    margin-top: 10px;
+}
+#c input{
+    font-size: 13px;
+    margin-left: 30px;
+    margin-top: 70px;
+}
+#d{
+    font-size: 13px;
+    margin-left: 100px;
+    margin-top: 70px;
+}
+.ef{
+    margin-left: 30px;
+    margin-top: 100px;
+    
+}
+.mail{
+    display: flex;
+    margin-left: 90px;
+    margin-top: 40px;
+}
+.mail p{
+    margin-top: 20px;
+}
+.add{
+    display: flex;
+    margin-left: 90px;
+    margin-top: 40px;
+}
+.phone{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 90px;
+
+}
+.abc{
+    color: white;
+    margin-top: 100px;
+    margin-left: 80px;
+    background-color: blueviolet;
+    height: 50px;
+    width: 170px;
+    border-radius: 30px;
+    font-size: 15px;
+
+}
+.gh{
+    background-color: palegreen;
+    margin-top: 30px;
+    height: 60vh;
+
+
+}
+.gh h1{
+    margin-left: 100px;
+    color: white;
+    padding-top: 150px;
+    font-size: 50px;
+    word-spacing: 7px;
+    letter-spacing: 2px;
+}
+h6{
+    margin-left: 100px;
+    font-size: 15px;
+}
+button{
+    margin-left: 150px;
+    margin-top: 20px;
+    border-radius: 25px;
+    background-color: rgb(141, 252, 191);
+    color: white;
+    width: 200px;
+    height: 50px;
+    font-size: 15px;
+
+}
+.add p{
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+
