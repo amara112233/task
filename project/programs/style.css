@@ -1,0 +1,19 @@
+.a{
+    background-color: deeppink;
+    color: greenyellow;
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+    letter-spacing: 20px;
+}
+.b{
+    background-color: rgb(227, 234, 36);
+}
+.b li{
+    color: green;
+}
+#a,#b,#c,#d,#e{
+    text-align: center;
+    background-color: aqua;
+    color:crimson;
+}
